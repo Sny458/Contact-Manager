@@ -6,7 +6,7 @@ A modern, responsive React contact management app built for the Tria frontend as
 
 ## Demo
 
-Live demo: https://contact-list-tria.vercel.app
+Live demo: https://contact-listmanager.vercel.app/
 
 ---
 
